@@ -33,7 +33,7 @@
 
 
 /*----- Cached Element References  -----*/
-
+const newGameBtn = document.querySelector('#new-game')
 
 /*-------------- Functions -------------*/
 
