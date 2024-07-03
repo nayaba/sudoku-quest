@@ -1,3 +1,8 @@
 body {
-    background-color: gray;
+    background-color: #2a1a5e;
+    font-family: 'Cinzel';
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    color: #ffd700;
 }
